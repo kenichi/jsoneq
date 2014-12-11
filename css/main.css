@@ -1,0 +1,13 @@
+body {
+  margin: 10px;
+}
+
+.textareas {
+  width: 100%;
+}
+  .textareas div {
+  }
+    .textareas div textarea {
+      width: 45%;
+      height: 400px;
+    }
