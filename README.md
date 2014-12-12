@@ -1,1 +1,1 @@
-# (jsoneq)[https://kenichi.github.io/jsoneq]
+# [jsoneq](https://kenichi.github.io/jsoneq)
